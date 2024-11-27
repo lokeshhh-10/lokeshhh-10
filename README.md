@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lokesh95664@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ac_3PcimQZ9sNUTnHrtQMNLKRI3h-vMt/view?usp=sharing](https://drive.google.com/file/d/1Ac_3PcimQZ9sNUTnHrtQMNLKRI3h-vMt/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1Ac_3PcimQZ9sNUTnHrtQMNLKRI3h-vMt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
