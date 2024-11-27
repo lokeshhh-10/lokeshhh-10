@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokeshwaran K</h1>
-<h3 align="center">Versatile Full Stack Developer🌟 | Proficient in React, JavaScript & Python💻 | Blockchain Enthusiast &  </br> DApp Creator 🔗 | Tech Explorer 🔬 | Problem Solver 🧩</br>  | Let's Build the Future with Code and Creativity!✨</h3>
+<h3 align="center">Versatile Full Stack Developer🌟 | Proficient in React, JavaScript & Python💻 | Blockchain  </br> Enthusiast & DApp Creator 🔗 | Tech Explorer 🔬 | Problem Solver 🧩</br>  | Let's Build the Future with Code and Creativity!✨</h3>
 
 - 📫 How to reach me **lokesh95664@gmail.com**
   
