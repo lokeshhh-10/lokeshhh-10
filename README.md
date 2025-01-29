@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Guest room application](https://github.com/lokeshhh-10/Guest-Room-App)
 
 <!-- Resume Link -->
-## [📄 View My Resume](https://drive.google.com/file/d/1NaqpgaLxR11kiGJGUCPrBrvuOoNuLbwm/view?usp=sharing)
+## [📄 View My Resume](https://drive.google.com/file/d/1HUrbEwTMksZQuFaqAE-TzZ06y4p8hN0r/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
