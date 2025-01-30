@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **lokesh95664@gmail.com**
   
-- 🌱 I’m currently learning **Full Stack Development & Web3.0**
 
 - 🔭 I’m currently working on [Guest room application](https://github.com/lokeshhh-10/Guest-Room-App)
 
