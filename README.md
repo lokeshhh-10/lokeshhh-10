@@ -2,7 +2,8 @@
 <h3 align="center">Versatile Full Stack Developer🌟 | Proficient in React, JavaScript, Java & Python💻 | </br> Blockchain  Enthusiast & DApp Creator 🔗 | Tech Explorer 🔬 | Problem Solver 🧩</br>  | Let's Build the Future with Code and Creativity!✨</h3>
 
 - 📫 How to reach me **lokesh95664@gmail.com**
-  
+
+- 🌱 I’m currently learning **Java & Backend-development**
 
 - 🔭 I’m currently working on [Guest room application](https://github.com/lokeshhh-10/Guest-Room-App)
 
