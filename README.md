@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **lokesh95664@gmail.com**
 
-- 🌱 I’m currently learning **Java & Backend-development**
+- 🌱 I’m currently learning **DSA & Backend-development**
 
 - 🔭 I’m currently working on [Guest room application](https://github.com/lokeshhh-10/Guest-Room-App)
 
