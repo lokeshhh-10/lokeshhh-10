@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA & Backend-development**
 
-- 🔭 I’m currently working on [Guest room application](https://github.com/lokeshhh-10/Liri-ai-assistant-client)
+- 🔭 I’m currently working on [Liri Ai Assistant](https://github.com/lokeshhh-10/Liri-ai-assistant-client)
 
 <!-- Resume Link -->
 ## [📄 View My Resume](https://drive.google.com/file/d/1IIXC5oJEOzUvUl-Haak_NVF39AD5_-eo/view?usp=sharing)
