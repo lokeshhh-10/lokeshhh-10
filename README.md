@@ -1,10 +1,16 @@
+<div align="center">
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
+    </p>
+</div>
+
 <h1 align="center">Hi 👋, I'm Lokeshwaran K</h1>
 <h3 align="center">Full Stack Developer who cares about clean APIs and scalable system design✨</h3>
 
 <img 
   align="right"
-src="https://camo.githubusercontent.com/bd59c0973453f57b030808394531b22c4cf6b5e54e911dad3c70c9a100713ebc/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f4044696b614172646e743f6e616d653d44696b614172646e74267468656d653d626f6f72752d6c657764"
-  width="420"
+src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif"
+  width="250"
 />
   <!-- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQzM2Q0M2YxZDI1YjZhYjJkZGY1M2E4YmQ2NDJmNzY0ZDI2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" -->
 
