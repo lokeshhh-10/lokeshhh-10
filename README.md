@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React, Node.js, Web development**
 
-- 📫 How to reach me **lokesh95664@gmail.com**
-
 - ⚡ Fun fact **I debug in prod (just kidding… mostly).**
 
 <!-- Resume Link -->
