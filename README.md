@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **lokesh95664@gmail.com**
 
-- 🌱 I’m currently learning **DSA & Backend-development**
-
 - 🔭 I’m currently working on [Liri.ai](https://github.com/lokeshhh-10/Liri-ai-assistant-client)
 
 - 🌱 I'm currently learning **GraphQL and RTK Query**
