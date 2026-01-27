@@ -20,7 +20,7 @@ src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-
 
 - 🔭 I’m currently working on [Liri.ai](https://github.com/lokeshhh-10/Liri-ai-assistant-client)
 
-- 🌱 I'm currently learning **GraphQL and RTK Query**
+- 🌱 I'm currently learning **GraphQL and WebSockets**
 
 - 🤝 I'm looking for help with **Learning system design**
 
